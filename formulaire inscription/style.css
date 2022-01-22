@@ -1,0 +1,31 @@
+h1{
+    color: blue;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.Légende{
+    text-align: center;
+    font-size: 2rem;
+}
+body{
+    background: url(./mountains-1412683.png);
+}
+.form{
+    background-color: aliceblue;
+}
+.nom{
+    color: orangered;
+}
+.age{
+    color: orangered;
+}
+.classe{
+    color: orangered;
+}
+.autre{
+    color: orangered;
+}
+.commentaire{
+    color: orangered;
+}
